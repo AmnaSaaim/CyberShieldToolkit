@@ -36,7 +36,7 @@ Installation Steps
 
 1. Clone the repository
 
-git clone https://github.com/your-username/cybertoolkit.git
+git clone https://github.com/AmnaSaaim/CyberShieldToolkit.git
 cd cybertoolkit
 
 ---
@@ -139,3 +139,10 @@ Author
 
 CyberToolkit Group Project
 Group Lead: Amna Saaim
+
+Members
+
+Areej Aftab
+Arooj Kashif
+Fatima
+Zoha Butt
