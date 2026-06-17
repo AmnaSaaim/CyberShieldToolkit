@@ -1,8 +1,8 @@
-
 CyberToolkit
 
 CyberToolkit is a Python-based cybersecurity toolkit project developed as a modular desktop application. It focuses on GUI development, basic security tool concepts, and team-based software engineering practices.
 
+---
 
 Features
 
@@ -12,9 +12,9 @@ Features
 - Team-based development workflow
 - Basic logging and data handling system
 
+---
 
-
- Setup Instructions
+Setup Instructions
 
 Requirements
 
@@ -24,59 +24,62 @@ Make sure you have the following installed:
 - Git
 - VS Code (recommended)
 
-Install required Python libraries:
+---
 
-```bash
+Install Required Libraries
+
 pip install requests
 
- Installation Steps
+---
+
+Installation Steps
 
 1. Clone the repository
 
-bash
 git clone https://github.com/your-username/cybertoolkit.git
 cd cybertoolkit
 
+---
+
 2. Create virtual environment (recommended)
 
-```bash
 python -m venv venv
 
+---
 
-Activate it:
+3. Activate virtual environment
 
-**Windows**
-
-```bash
+Windows:
 venv\Scripts\activate
 
-
-**Mac/Linux**
-
-```bash
+Mac/Linux:
 source venv/bin/activate
 
-Run the project
+---
 
-```bash
+4. Run the project
+
 python main.py
 
+---
 
 Technologies Used
 
-* Python (Core programming language)
-* Tkinter (GUI development)
-* requests (Optional for external features)
-* Git & GitHub (Version control)
+- Python (Core programming language)
+- Tkinter (GUI development)
+- requests (Optional for external features)
+- Git & GitHub (Version control)
 
+---
 
 Cybersecurity Concepts
 
-* Basic authentication flow
-* Input validation
-* Modular application structure
-* Secure coding practices (intro level)
+- Basic authentication flow
+- Input validation
+- Modular application structure
+- Secure coding practices (intro level)
 
+---
 
 Project Structure
 
@@ -96,38 +99,43 @@ CyberToolkit/
 ├── logs/
 └── README.md
 
+---
+
 Reports
 
 Intra-Group Collaboration Report
 
-* Project divided into modules for each member
-* Member 1: Project setup and integration (Group Lead)
-* Member 2: Core logic development
-* Member 3: GUI design and interface development
-* Member 4: Feature modules and testing
-* Regular communication through meetings and GitHub commits
-* Final integration handled by Group Lead
+- Project divided into modules for each member
+- Member 1: Project setup and integration (Group Lead)
+- Member 2: Core logic development
+- Member 3: GUI design and interface development
+- Member 4: Feature modules and testing
+- Regular communication through meetings and GitHub commits
+- Final integration handled by Group Lead
 
+---
 
 Inter-Group Contribution Report
 
-* Referenced open-source GitHub projects for learning
-* Used Stack Overflow for debugging assistance
-* Followed YouTube tutorials for GUI development
-* External code was studied, modified, and adapted
-* Focus remained on learning and implementation
+- Referenced open-source GitHub projects for learning
+- Used Stack Overflow for debugging assistance
+- Followed YouTube tutorials for GUI development
+- External code was studied, modified, and adapted
+- Focus remained on learning and implementation
 
+---
 
 Future Improvements
 
-* Add advanced cybersecurity tools (network scanning, monitoring)
-* Improve GUI using modern frameworks (PyQt / CustomTkinter)
-* Add encryption and security modules
-* Improve logging and analytics system
-* Expand toolkit into a full security suite
+- Add advanced cybersecurity tools (network scanning, monitoring)
+- Improve GUI using modern frameworks (PyQt / CustomTkinter)
+- Add encryption and security modules
+- Improve logging and analytics system
+- Expand toolkit into a full security suite
 
+---
 
- Author
+Author
 
 CyberToolkit Group Project
 Group Lead: Amna Saaim
